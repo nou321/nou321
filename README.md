@@ -23,10 +23,9 @@ Please feel free to reach out to me via my LinkedIn profile
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,react,angular,bootstrap,mui,html,css,php,vscode,github,figma,git,r,xd" />
-      <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,mysql,docker" /><br/>
-       <img src="https://skillicons.dev/icons?i=python,matplotlib,scikitlearn" />
- <br/>
-     <img src="https://skillicons.dev/icons?i=Hadoop,Cloudera,Pig,Hive,HBase,Spark" />
+      <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,mysql,docker,pythonscikitlearn" /><br/>
+ 
+
 
  
   

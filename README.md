@@ -12,7 +12,8 @@ I am currently seeking employment as a data scientist or machine learning engine
 
  Feel free to ask me about anything related to my projects.
 
-Please feel free to reach out to me via my LinkedIn profile.
+Please feel free to reach out to me via my LinkedIn profile  
+
 <a href="https://www.linkedin.com/in/nour-nouira-a99039183/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -22,12 +23,8 @@ Please feel free to reach out to me via my LinkedIn profile.
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,react,angular,bootstrap,mui,html,css,php,jee,vscode,github,figma,git,r" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,mysql,oracle" /><br>
-    <br/>
-     <img src="https://skillicons.dev/icons?i=excel,tableau,python,matplotlib,scipy,scikitlearn,seaborn,lime" /><br>
- <br/>
-     <img src="https://skillicons.dev/icons?i=Hadoop,Cloudera,Pig,Hive,HBase,Spark" /><br>
+ 
+  
     
 </div>
 

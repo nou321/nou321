@@ -22,9 +22,9 @@ Please feel free to reach out to me via my LinkedIn profile
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,react,angular,bootstrap,mui,html,css,php,vscode,github,figma,git,r" />
-      <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,mysql,oracle" /><br/>
-       <img src="https://skillicons.dev/icons?i=excel,tableau,python,matplotlib,scipy,scikitlearn,seaborn,lime" />
+    <img src="https://skillicons.dev/icons?i=java,react,angular,bootstrap,mui,html,css,php,vscode,github,figma,git,r,xd" />
+      <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,mysql,oracle,docker" /><br/>
+       <img src="https://skillicons.dev/icons?i=tableau,python,matplotlib,scipy,scikitlearn,seaborn" />
  <br/>
      <img src="https://skillicons.dev/icons?i=Hadoop,Cloudera,Pig,Hive,HBase,Spark" />
 

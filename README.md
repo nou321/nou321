@@ -12,6 +12,15 @@
 Please feel free to reach out to me via my LinkedIn profile.
 
 ## 🧰👽👾 Languages and Tools 👾👽🧰
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,react,angular,bootstrap,mui,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,mysql,oracle" /><br>
+     <img src="https://skillicons.dev/icons?i=python,matplotlib,scipy,scikitlearn,seaborn,lime" /><br>
+</div>
 
  </div>
  

@@ -24,7 +24,9 @@ Please feel free to reach out to me via my LinkedIn profile
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,react,angular,bootstrap,mui,html,css,php,vscode,github,figma,git,r" />
       <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,mysql,oracle" /><br/>
-  
+       <img src="https://skillicons.dev/icons?i=excel,tableau,python,matplotlib,scipy,scikitlearn,seaborn,lime" />
+ <br/>
+     <img src="https://skillicons.dev/icons?i=Hadoop,Cloudera,Pig,Hive,HBase,Spark" />
 
  
   
